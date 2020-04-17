@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Life in UK quiz</string>
+    <string name="title_fragment_title">Life in UK quiz</string>
+    <string name="rules_fragment_title">Rules</string>
+    <string name="about_fragment_title">About</string>
+    <string name="game_over_fragment_title">Game Over</string>
+    <string name="game_won_fragment_title">You win!!!</string>
+    <string name="test_fragment_title">Question %1$d/%2$d</string>
+    <string name="rules_text">Pick correct answer to pass test.</string>
+    <string name="select_share_option">Select share option</string>
+    <string name="about_text">This app is designed for training purpose.
+        \nObjective - learn NavigationUI:
+        \n - Menu
+        \n - Up Button
+        \n - Navigation Drawer
+        \n - Navigation Graph
+        \n - Slide Animation
+        \n - Safe Args
+       </string>
+    <string name="next">Next</string>
+    <string name="about">About</string>
+    <string name="rules">Rules</string>
+    <string name="share">Share</string>
+    <string name="navigation_drawer_header">Navigation Drawer Header</string>
+    <string name="test_fail">Test Fail</string>
+    <string name="tra_again">Tra Again</string>
+    <string name="test_pass">Test Pass!!!</string>
+    <string name="practice_more">Practice more</string>
+    <string name="start">Start</string>
+
+
+</resources>
